@@ -11,10 +11,6 @@ This project is part of a recruitment task and demonstrates professional coding 
 1. [Project Setup](#project-setup)
 2. [Running Tests](#running-tests)
 3. [Test Scenarios](#test-scenarios)
-4. [Folder Structure](#folder-structure)
-5. [Technical Decisions](#technical-decisions)
-6. [Future Improvements](#future-improvements)
-7. [Contact](#contact)
 
 ## Project Setup
 
@@ -32,7 +28,7 @@ Ensure the following are installed:
 
 2. Navigate to the project directory:
     ```bash
-   cd repository-name
+   cd Panowie_programisci
 
 3. Install all necessary dependencies:
     ```bash
